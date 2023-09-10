@@ -1,0 +1,5 @@
+1.	What is virtual memory?
+2.	What is fragmentation?
+3.	When does thrashing occur?
+4.	What is spooling?
+What is thrashing and 
